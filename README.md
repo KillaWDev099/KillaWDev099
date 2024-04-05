@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @KillaDev099
-- 👀 I’m interested in learn about Quantum Physics-Computing
+- 👀 I’m interested in learn about STEM
 - 🌱 I’m currently learning Computing Science
 - 💞️ I’m looking to collaborate on Research
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me ... //
 - ⚡ Fact?: "Data as the 5th matter state"
 
 <!---
